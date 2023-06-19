@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2023-06-19T09:49:28.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="K31cSvCaGg9S48zwYpl4" version="21.2.8" type="device">
+  <diagram id="dX7Dphyso45SB9-RoEhv" name="Page-1">
+    <mxGraphModel dx="1434" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nfxZPmU7g6QgWNAvG-ER-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fontFamily=xkcd;fillColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="80" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-18" value="&lt;font&gt;&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;&quot;&gt;uncharted tech horizons&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=xkcd;" parent="1" vertex="1">
+          <mxGeometry x="225" y="118" width="570" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-24" value="&lt;font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;navigating the future of innovation&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=xkcd;" parent="1" vertex="1">
+          <mxGeometry x="210" y="162" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-30" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797.5" y="199" as="sourcePoint" />
+            <mxPoint x="222.5" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-dpR7HA_-HZ3Fbqk2lw-16" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="584" as="sourcePoint" />
+            <mxPoint x="225" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-dpR7HA_-HZ3Fbqk2lw-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Side note&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;attention : prepare to embark on a mind-bending journey where imagination meets technology. fasten your seatbelts and embrace the awe&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=xkcd;" parent="1" vertex="1">
+          <mxGeometry x="210" y="585" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="euaHSMH8fYii958cPEId-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661" y="451" as="sourcePoint" />
+            <mxPoint x="661" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKVuHFSoDqtFi99w7tCS-15" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;© aichaintech - we make magic happen. unauthorized enchantments strictly prohibited.&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontFamily=xkcd;" parent="1" vertex="1">
+          <mxGeometry x="590.5" y="382.5" width="385" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQCAYAAACAvzbMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAADc5JREFUeNrs3d1120YaBuBx1hd7F6YCwxVEqcBIBZErCFPBKhVEqcBJBXQqUFKB6AokVyC6AimXe+UFEnBFKfwDCAwGwPOcMye2IpPgBxIv5wdACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC9eaEE8H951d4U7axos2f//6Fot1X7ULTflQxgusqQuCzaXdE+12z3RXtXtEwZAaYXHPcNgmNbe7elxwLAyJy3GBzPeyTnygswzl7HooPgeN6u9EYAxiMr2k2E8Fi38rnOlB1g2MoDeRdDVscMaQkRAOEhRACEhxABIPHwECIAA1KugGpyYmCMEMnsHoB0xVxt1WR1liW+AAmKcZ7HqW1hNwGkZT6A8Fi3C7sLIA1ZSGvS/JhmUh0gAdcDC4/1fAgAPboYYHis26XdB9CPLAxv6MpQFkAChjh09bxd240AcZ2PIDzWbW53AsST4tnmp5yl7gRDBuVfSsBAXYZx3f3v30X7b9GWdi1Ad2Zh+BPnu1pm9zIUXygBA3QRxjvc85PdC6D3oReCHgjofeiFAOh96IWAHgh6H3oh0J8XSsCAeh93YVrnSnxVtAe7Hj0QOM08TO9EO/cMQQ8EWlD2PrKJveaHqhcCSXqpBAzAeeTwWFXtWFlH2zerel7vvQXQA4FmyqvV5jV+/zY8zh182PHzJkFR11l4Ouy2+fevqz/Pwv7LuZfb/I23AAIE6iu/2d9t/H25cWD9cyMUHqo/D1m+8d8vq2ApX//bEbw2gOhm1QHVlWoBAAAAAKjDJDpjt22VU77l916FdpbilpP5H7f8fPnsd0yKI0CgB+vlsJvhsBkAWRjOSYebYbIq2qdnP1va3QgQqOe8CocvN0Iin2gt1oFS/vettwbAbmXv4bO2tZ15e5AKF1Mk1d4H232vBAgQcJBsIlcCUmEOhNSs7zrIbq9Dt9fwAj0QBsnwlRohQKCR75TgIEN8JMEQFqn5rARHcbtb9EBgg6EZtUKAQCNvlECtGA5DWKRkivc9b8r90tEDgUomPGo5dCtcECBMRq4EaoYAgSaM6asZA2MOhFSY//AZRg8EasuER2O5EiBAcBCkCRPpCBAmzVi+2jFAxk9JgfmP5pwPgh4IkzUTHifXzzAWAoRJypXgZAIEAYKDH42YB0GA4OCHEGY4TKLTt/L2tTNl8FlGDwTqyIRHa3IlQIAwJYZe1BIBAg56PftaCRAgTIkJ9PZkSkBsJt7okwl0n2f0QKC2mfBonSFBBAgOdjSSKQECBAGCmiJAYIdXStA6K7EQIPi2TCOZEhCTVRv0xQosn2n0QKAR4aEXggCB2nIlECAIEND7SIu5JQQIDnIIZwQIPGcJb3dcXwwBwqhlSgDDZ8kffbgTIj7XeKNBE5+VwOea4TOERWx6Ht3LlQABggABBAhULDPVA0GAQCPOAQEBAiTKeTYIEEbJPSu6lykBAoQxMgcCAgRIVK4ExOCEI2JzEqHPNnogAAgQYGxyJaBrL5UAB7WtHop2++xn5TksFgGAAIEnyrD4o2jLqh0KwrJ9F5wYCRCtB/I5sbY4MQSy6jHuE3tdc283YEzmCR1gr0K7J9zNqiBJ5fVdervRNZPoxJQlsA3l3Ma3RXtbtFXLj/tD9dgruxoBAuNSznO8DofnOE5RPvY3HT8HCBCI6H3VO3iI2Mt53+Pr/dIup2tWYTEFZW/ghx6ed/2c8x6e2+owYFTKievYk8k3of9zN256eN3X3m50zRAWMcU+kK8nth96ft1vE9gGECBQw8/hn2eT92FVtB/tDoDmymGVWEM4dxN//Yaw0AOBE3ofU94m1+wC9EBG0vtYizmhDnogUNOvtg1gXGJ9+84SrsFMDwSgvqkPX8UOUuiUISzGZmkbQYBAE58GsI0f7SYECPh238TKbkKAACBAAECAACBAABAgEEM+gG3M7CYECKTnlQABAQJNDOFWrm/sJoB6XAvLtbDQA4FGYt3W9TzhGpx7GyBAIF3/SXjbvrd7ECCQriykuRorj7hdt94GCBBo5qeJb9ODtwACBJp/258ntD3nYRjnqIAAgcK7kMaKrHLl1cLuQIDAcJQH7qsEtmNRbQsIEGjoQw/Pedbzt//yuS3dRYDAQM17CpFF6G8eZmW3I0Cg3RCJNZTUZ3iUPtnlCBBoN0SuQ7fXyyof+yaktQIMBAiDt0pgG9YH+MuWeyOz6jFvwjAu6AgwKHmIdyHBY9p9C0GyDo77xF7bhbcbIEDitHK57/zI3kNW/e5Vwq8n93ajay+VAP5yHp4ut11u/Plho5dyFpzTAQKE6IZ0gT/f4OGAF0pAZG505LPNSFiFBYAAYRDcpwIECDTiPhXdWyoBAgQBAggQqHxUAiGNAAGENAIEojGJDgIEGjG80r2lEiBAGKOVEsA4OFuVPjgbvVtf6emhB4JeCE0IDwQIAoTaLFJAgCBA0PtAgMBzn5RADwQBAnogaflTCRAgCBCaWCoBAoQxM8zSHXMgROM8EPpyH9xb3GcaPRDQC1FTBAjEslICNUWAQBOW8rbPZdwRIEzCUglaZwgLAYKDHY2slICYrNigT1Zi+TyjBwJ6IWqJAAEHPbUEAULirBpSSwQI+NaslkyNSTf65va2PsvogUAjSyXQ+0CAgIOfGiJAIJoPSnAyE+gIEHx7ppGlEtAHE2+k4K5omTI0Ut5A6itlQA8E36DRg0OAQA3G8Jszh4QAQQ8EtWNYzIGQClfm9RlGDwR8k1YzBAjEYyxfzQAaycLf18XSjm9n3jb0yfgpKXE+yPGc/0HvDGGRkqUSqBUCBJr4QwnUiuEwhEVKymW898pwlNdFWykDeiDwt3Jc/3dlOOhWeCBA4J8sTT3M8BXAFlmwPNfyXYCGboTEznbn7UEqXioBCfot8rfsVWg+pzCLvK3miEiGVVikKKvxTXu58ecPe0KhnKCPfe+Ms/D0ApFZeHqi5JuNP+dHPuY3wT1AECDw18F01zf/RfX/ywP/x2cBcFv9fYw2ezTrAHq1UYu3O/5dHpxcCEzE+pwPE8LtBLFaApMJj/VE+TvlONlFVUv3VAFGbxGsKmrT5qq1G+UgFnMgxHZZtJ+e/awc109hdVGdFVWpzMOcbQmN90X7wVuNrlnGS0zzLeFR+u6EAMnC48qm5wHwdfjnkE4e6bU+D5j1YoC1VXhcQLD557q+31Hn8rl+8ZZDD4QxKA/s12H7GH15cH294xt9GQ7n4elqpJhBENs6eMpA+RQerw+2K2D2zXuk0rMDaGy94mrfGdbzPcEz9bPPd4Xl+YF/Z2UWMPjwOObSJNd7HuM6uHTJNldH/nsrs4BBWtQ4WGY7HmM+4QDZ1TPLajyGlVnA4FzWPFgu9jzW3QTDY9/8Rpu1BUhKk15DmwfMMbR3LQfqhbclkLqzcHjSvO6QzeyExxxq62JI79zbE0jVqQf6fZPGizCd8Ng35HTKogIrs4Bkw6ONm0Ht+pac6X38taS3jZVdVmYBSWmrh3A98V7Ivt7HVUvPYWUWkIzLEOfkuSn0QrJIr93KLKB38w4OolPthSwiv24rs4DenLLiqmkvZMwrsmL1PqzMAnrV9YH8OuKQWernfXTZ67IyC4geHm2suDqlFzKms9P3nUQZ44KSVmYB0cSah9jXC5mPKED2zUXEupiklVlA52IPH80TOLj2deDOQzqT+AAn6eNb/77hlWwEAZLvqfdNSKs3BNBIlyuuDrXLhHpEsSbOL3rcLiuzgNb0vXT2Puxe4trXN/Uue1Yp1NvKLKCV8EjhAH2daO+oadt3gL4KaQccwFFSOvN739DKfEDhsW9ILk9oO6+9/YGmLsNwzpdILex2tasDvb3Uzm+xMguoLdVv9NcDGG7bt2R3lvjQVd2l1ABPpD6nsG+paZboth+amD4Pw11uzAS9VAL2BMivCW/fvm/xq6J9W/VUUpoELrfp9kDw/Zz4e2LpowFMJQQNAQHQyFx4AHBKT6SPOZHyOZ3RDTCCEIm5PNaZ3AAjUk6ox7h6b2qT9wC05CJ0M6R1H1zJFmD0stDuWeuLsP9ijwAIEsEBwKNyzmJeBcK+yfa76nfmwTwHE/dCCWBv72Tdu1hVDQAAAAAAAAAAgEPy4KZKcNAXSgCAAAFAgAAgQAAQIAAgQAAQIAAIEAAECAACBAAECAACBAABAoAAAUCAwAhloZvLsufVYwMwMrOiXYfHe3vcF22+Iwjq3A9kXj3W+neuq+cCYCQWR4ZCnQA52/F7C+Vm7AxhMSXzHT/PT3jM85rPBQIEAAECAAIEAAECgAABQIAAgAABQIAAIEAAECAACBAAECAACBAABAgAAgQAAQIAAgQAAQKAAAFAgAAgQABAgAAgQAAQIJCi2z3/b6U8IEBgl4ei/bjl578IEHj0Uglgq1+qnkhe/X1ZNUCAwEFCA/YwhAWAAAFAgAAgQAAQIAAgQAAQIAAIEAAECAACBAAECAACBAABAoAAAUCAAABM3qJon7e07ITHzHY85kK5AcZjVrSrjYP8fdHmLTzuvHqs9eNeVc8FwAiDJO/gcfMTezMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADJ+J8AAwDk2apQwUeIQQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="401" y="190" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="k-dpR7HA_-HZ3Fbqk2lw-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="510" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-3" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;Blast off into a digital revolution!&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(77, 153, 0); font-size: 14px;&quot;&gt;Introducing&lt;/font&gt; &lt;font color=&quot;#666666&quot; style=&quot;font-size: 18px;&quot;&gt;AiChainTech.&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-5" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;Where innovation soars.&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-6" value="&lt;font color=&quot;#4d9900&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;Transforming the future.&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRB2mTIoIW2IEhiZbxDY-7" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;&quot;&gt;Join the journey!&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="139" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
